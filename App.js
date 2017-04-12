@@ -4,7 +4,7 @@ import { Constants } from 'expo';
 import { Bars} from 'react-native-loader';
 import Header from './src/components/header';
 import EditText from './src/components/editText';
-const key = "trnsl.1.1.20170401T074425Z.a246f2e42a791ac5.a7d303ee3c1fbca9bc85d0e97cb7a18f13999136";
+const key = {FREE_API_KEY_FROM_YANDEX};
 
 export default class App extends React.Component {
   constructor() {
